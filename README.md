@@ -20,3 +20,15 @@ This Python program helps users find files in a specified directory by providing
 
 - If the program does not find the file, double-check the directory path and filename.
 - Ensure you have the necessary permissions to access the specified directory.
+
+### Contributing:
+
+Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
+
+### License:
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Issues:
+
+Found a bug or have a suggestion? Please open an issue here on GitHub.
