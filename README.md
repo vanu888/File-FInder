@@ -25,10 +25,10 @@ This Python program helps users find files in a specified directory by providing
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
-### License:
+## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-### Issues:
+## Support
 
-Found a bug or have a suggestion? Please open an issue here on GitHub.
+For any questions or suggestions, feel free to [open an issue](https://github.com/vanu888/File-FInder/issues) on GitHub.
